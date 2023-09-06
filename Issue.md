@@ -20,7 +20,7 @@ Feel free to contribute too any of packages in the list below!
 - [ ] @storybook/addon-interactions
 - [ ] @storybook/addon-jest
 - [ ] @storybook/addon-mdx-gfm
-- [ ] @storybook/addon-measure
+- [ ] @storybook/addon-measure 
 - [ ] @storybook/addon-outline
 - [ ] @storybook/addon-storyshots
 - [ ] @storybook/addon-storyshots-puppeteer
